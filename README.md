@@ -1,4 +1,4 @@
-# Digital-Clock---Show-Hide-Seconds-using-PyQt5 🕑
+# Digital Clock---Show/Hide Seconds using PyQt5 🕑
 
 This is a simple digital clock in LCD Style.
 
